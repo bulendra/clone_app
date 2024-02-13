@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+
 import Nav from './nav';
 import video from './assets/video.mp4';
 function Main()
