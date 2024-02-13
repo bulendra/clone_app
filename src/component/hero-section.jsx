@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 import React from 'react';
+=======
+
+>>>>>>> bd6b7bde784d03046f0f2a299a955c286986f229
 import Nav from './nav';
 import video from './assets/video.mp4';
 function Main()
